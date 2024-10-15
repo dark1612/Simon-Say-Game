@@ -4,4 +4,6 @@ Simon Says is a fun game that helps in exercising vision skills. This game is fa
 
 I have made this game user friendly and can be played in free time.
 
-Tech Stack Used are:- HTML,CSS, JavaScript
+Tech Stack Used are:- HTML,CSS, JavaScript.
+
+Wanna try :- https://simon-say-game-six.vercel.app/
